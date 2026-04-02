@@ -1,2 +1,3 @@
 # USB-8-digit-Display
-USB 8-digit Display HW and SW development , streatching the limits of what 7-segment LEDs can do
+USB 8-digit Display HW and SW development , streatching the limits of what 7-segment LEDs can do by playing with phase and frequency.
+We've managed to have different intensity in different segments of same digit, so we're able to create several creative effects when displaying numbers or words.
