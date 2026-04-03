@@ -4,5 +4,6 @@ We've managed to have different intensity in different segments of same digit, s
 
 - Manual EN Display USB.pdf - User Manual with some technical details
 
-!["PCB front"](PCB%20front.jpeg)
-!["PCB back"](PCB%20back.jpeg)
+Front            |  Back
+:-------------------------:|:-------------------------:
+!["PCB front"](PCB%20front.jpeg) | !["PCB back"](PCB%20back.jpeg)
