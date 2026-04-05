@@ -7,3 +7,9 @@ We've managed to have different intensity in different segments of same digit, s
 Front            |  Back
 :-------------------------:|:-------------------------:
 !["PCB front"](PCB%20front.jpeg) | !["PCB back"](PCB%20back.jpeg)
+
+Some components:
+- 8x https://www.alldatasheet.com/datasheet-pdf/view/241602/SUNLED/DUR57A-A.html
+- 1x https://www.alldatasheet.com/datasheet-pdf/view/120813/ALLEGRO/UDN2982A.html
+- 1x https://www.alldatasheet.com/datasheet-pdf/view/168892/UTC/ULN2803.html
+- 1x https://www.microchip.com/en-us/product/pic18f2550
